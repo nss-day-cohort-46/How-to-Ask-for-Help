@@ -6,6 +6,8 @@ One of the most important skills for a software developer is formulating good qu
 
 We want you to be able to effectively articulate problems you encounter in your code using correct vocabulary and accurately describe the output you expect, the output you are getting, solutions you've tried, and what ultimately resolved the issue.
 
+You will also get more familiar with github and markdown. Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a reference to markdown syntax.
+
 ## How to ask for help
 
 Follow the steps below to create an issue ticket.
