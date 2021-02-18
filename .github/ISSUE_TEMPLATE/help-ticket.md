@@ -6,8 +6,14 @@ labels: ''
 assignees: Scott47
 
 ---
+**Name:** 
+**Group:** *(If applicable)*
 
-#### Your Name:
+**Group:** *(If applicable)*
+
+#### Name: *(Since we don't know you by your github handle)*
+#### Group:** *(if applicaable)*
+#### Book / Chapter:** *(if applicable)* 
 
 #### Have you searched the other issue tickets? If not, do that first. 
 - [ ] Yes
