@@ -2,7 +2,9 @@
 
 This repository will be used to help instructors and students help each other with coding questions.
 
-Part of being a software developer is formulating good questions. There are many few reasons for this such as are gaining a better understanding what problem you are trying solve, knowing how to interact with senior developers at work, and facilitating your own learning. We want you to be able to effectively articulate problems you are encounter in your code, the output you expect, the output you are getting, solutions you've tried, and what ultimately resolved the issue.
+One of the most important skills for a software developer is formulating good questions. When you work to articulate the issue, you gain a better understanding of what problem you are trying solve, making you better equipped to interact with senior developers at work and to facilitate your own learning. 
+
+We want you to be able to effectively articulate problems you encounter in your code using correct vocabulary and accurately describe the output you expect, the output you are getting, solutions you've tried, and what ultimately resolved the issue.
 
 ## How to ask for help
 
