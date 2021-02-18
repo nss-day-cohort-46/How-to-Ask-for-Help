@@ -1,5 +1,5 @@
 ---
-name: HELP TICKET
+name: ''
 about: use for getting guidance and consultation from your instruction team
 title: HELP TICKET
 labels: ''
