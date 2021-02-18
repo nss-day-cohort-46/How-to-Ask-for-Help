@@ -1,11 +1,12 @@
 ---
 name: HELP TICKET
 about: use for getting guidance and consultation from your instruction team
-title: "[HELP TICKET]"
-labels: ''
+title: ''
+labels: help wanted
 assignees: ''
 
 ---
+
 <!--- (Since we don't know you by your github handle) --->
 #### Name:
 <!--- (if applicaable) --->
