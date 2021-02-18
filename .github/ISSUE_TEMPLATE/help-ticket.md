@@ -1,9 +1,9 @@
 ---
 name: HELP TICKET
 about: use for getting guidance and consultation from your instruction team
-title: HELP TICKET
+title: "[HELP TICKET]"
 labels: ''
-assignees: Scott47
+assignees: ''
 
 ---
 
