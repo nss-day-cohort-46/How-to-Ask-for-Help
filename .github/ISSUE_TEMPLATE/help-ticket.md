@@ -22,7 +22,7 @@ assignees: ''
 <!-- (Check these prior to creating the issue ticket) --> 
 <!-- These can be added in the column on the right -->
 - [ ] Added label to specific project/assignment that you need help with
-- [ ] Added to `Student-Help-Tracking` project board
+- [ ] Added to `c46 Help-Thread` project board
 
 #### REQUIRED Describe your issue:
 >>
