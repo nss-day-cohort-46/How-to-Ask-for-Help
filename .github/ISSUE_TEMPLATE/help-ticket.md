@@ -8,12 +8,8 @@ assignees: ''
 ---
 
 **_Ticket MUST be completed before getting help from an instructor_**
-<!--- (Since we don't know you by your github handle) --->
 #### Name:
-<!--- (if applicaable) --->
-#### Group:
-<!--- (if applicable) ---> 
-#### Book / Chapter: 
+#### Breakout Room:
 
 #### Have you searched the other issue tickets? If not, do that first. 
 - [ ] Yes
@@ -32,7 +28,6 @@ assignees: ''
 <!-- PASTE ERROR MESSAGE HERE -->
 
 #### REQUIRED What have you googled? **_(You must have at least 3 links related to your issue)_**
-<!--- Paste links to the things you have found from your google search - You must have at least 3 -->
 - [ ] 1. 
 - [ ] 2. 
 - [ ] 3. 
@@ -47,5 +42,5 @@ assignees: ''
 #### Code Snippet
 
 ```
-PASTE YOUR CODE HERE BETWEEN THE BACKTICS
+PASTE YOUR CODE HERE BETWEEN THE BACKTICKS
 ```
