@@ -22,13 +22,13 @@ assignees: ''
 ####  REQUIRED Add Tags to Issue Ticket and Assign to Project Board
 <!-- (Check these prior to creating the issue ticket) --> 
 <!-- These can be added in the column on the right -->
-- [ ] Added label to specific project/assignment that you need help with
 - [ ] Added to `c46 Help-Thread` project board
+- [ ] Added the `Blocker` label if this is stoping you from moving forward
 
 #### REQUIRED Describe your issue:
 >>
 
-#### REQUIRED List any error messages that appear:
+#### REQUIRED Copy/paste any error messages that appear:
 <!-- PASTE ERROR MESSAGE HERE -->
 
 #### REQUIRED What have you googled? **_(You must have at least 3 links related to your issue)_**
